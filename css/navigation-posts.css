@@ -1,6 +1,6 @@
 .navigation-posts-arrows {
     position: fixed;
-    top: 50%;
+    top: 75%;
     right: 20px;
     transform: translateY(-50%);
     background: rgb(44, 51, 56);
