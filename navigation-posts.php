@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Navigation Posts
- * Plugin URI: https://wordpress.org/plugins/navigation-posts/
+ * Plugin URI: https://github.com/beaushowcase/navigation-posts
  * Description: Provides navigation arrows for previous and next posts in the WordPress backend.
  * Version: 1.0.0
  * Author: #beaubhavik

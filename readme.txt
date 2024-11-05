@@ -1,44 +1,42 @@
 === Navigation Posts ===
 Contributors: beaubhavik
-Tags: navigation, posts, admin, backend
-Requires at least: 4.7
-Tested up to: 6.6
+Tags: navigation, posts, admin, backend, post navigation, next post, previous post, admin interface
+Requires at least: 5.0
+Tested up to: 6.4
 Stable tag: 1.0.0
-Requires PHP: 7.0
+Requires PHP: 7.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Provides navigation arrows for previous and next posts in the WordPress backend.
+Enhance your WordPress admin experience with convenient navigation arrows for browsing between posts in the backend.
 
 == Description ==
 
-Navigation Posts is a simple yet powerful plugin that enhances the WordPress admin experience by adding navigation arrows for previous and next posts in the backend. This plugin is perfect for content creators and editors who frequently work with multiple posts and need quick navigation between them.
+Navigation Posts adds intuitive navigation arrows to your WordPress admin interface, allowing you to easily move between posts while editing or reviewing content. Perfect for content managers and editors who work with multiple posts regularly.
 
-Key Features:
-* Adds navigation arrows to the post edit screen
-* Works with all post types
-* Smooth and intuitive user interface
-* Lightweight and optimized for performance
+Features:
+* Previous and Next post navigation arrows in the admin backend
+* Smooth navigation between consecutive posts
+* Simple and lightweight implementation
+* No configuration needed - works right out of the box
+* Compatible with all post types
 
 == Installation ==
 
-1. Upload the `navigation-posts` folder to the `/wp-content/plugins/` directory
+1. Upload the 'navigation-posts' folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Navigate to any post edit screen to see the navigation arrows
+3. That's it! The navigation arrows will automatically appear in your post editor
 
 == Frequently Asked Questions ==
 
-= Does this plugin work with custom post types? =
+= Does this work with custom post types? =
+Yes, the navigation works with all post types in WordPress.
 
-Yes, Navigation Posts works with all post types, including custom post types.
+= Does this plugin modify my database? =
+No, this plugin doesn't make any modifications to your database.
 
-= Can I customize the appearance of the navigation arrows? =
-
-The plugin comes with a default style that should work well with most WordPress admin themes. If you need to customize the appearance, you can add custom CSS to your admin area.
-
-== Screenshots ==
-
-1. Navigation arrows on the post edit screen
+= Is this plugin compatible with the block editor (Gutenberg)? =
+Yes, the plugin is fully compatible with both the classic and block editors.
 
 == Changelog ==
 
@@ -49,3 +47,6 @@ The plugin comes with a default style that should work well with most WordPress 
 
 = 1.0.0 =
 Initial release of Navigation Posts plugin.
+
+== Screenshots ==
+1. Navigation arrows in the WordPress admin interface
